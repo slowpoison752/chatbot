@@ -1,0 +1,102 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+         "responses": ["I am 18 years old!", "18 years young!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me GRANbot.", "I'm GRANbot!", "I'm GRANbot aka Granthium bot."],
+         "context_set": ""
+        },
+
+		
+		{"tag": "USA",
+         "patterns": [ "Granthium USA office"],
+         "responses": ["USA call:+1-224-353-6427 mail: info@granthium.com address:1111 Plaza Dr, Suite 640, Schaumburg, IL 60173"],
+         "context_set": ""
+        },
+		{"tag": "INDIA",
+         "patterns": ["Granthium India office"],
+         "responses": ["INDIA call: +91-7811-991899 mail:info@granthium.com address: 185, SPS Building, Anna Salai, Chennai - 600002 address2: 116, KMC Complex, Coimbatore 641010"],
+         "context_set": ""
+        },
+		{"tag": "UK",
+         "patterns": ["Granthium UK office"],
+         "responses": ["UNITED KINGDOM call: +44 7500 503 153 mail: info@granthium.com address: A1213 Gracechurch St, London EC3V 1LT, UK"],
+         "context_set": ""
+        },
+	    {"tag": "UAE",
+         "patterns": ["Granthium UAE office"],
+         "responses": ["UAE call: +971 52 747 4174 mail:info@granthium.com address:DPB 05, Dubai International Financial Centre, Dubai, 507211, UAE"],
+         "context_set": ""
+        },
+		{"tag": "partner",
+         "patterns": ["your technical parteners", "your affiliations", "Granthium ti-ups"],
+         "responses": ["GRANTHIUM PARTNERS INCLUDE : IBM PARTNER, WROLD, AYAN WORKS, AWS, AUTOMATION EDGE, CLAIRVIZ, MICROSOFT CERTIFIED PARTNER, TMAX SOFT"],
+         "context_set": ""
+        },
+		
+		{"tag": "What",
+         "patterns": ["What we do", "What does Granthium do", "Offerings"],
+         "responses": ["Granthium helps clients maximize their investments by transforming existing software and operational assets to leverage cloud computing, Big data, IoT and AI.Our three main focus areas are Telecom, Enterprise and FinTech.We transform and modernize legacy assets and monetize client data with inherent intelligence built into the solution."],
+         "context_set": ""
+        },
+		
+		{"tag": "Who",
+         "patterns": ["Who are you", "your aim", "your mission"],
+         "responses": ["Granthium is a Center of Excellence (CoE) that concentrates on specialized Domains, providing advanced Technology Solutions and Services.Our mission is to deliver customized value-add for our clients, from inception to implementation.We aim to build long-lasting relationships with our clients and continually strive to excel and maintain it by delivering best-in-class solutions and services."],
+         "context_set": ""
+        },
+		{"tag": "DOMAINS",
+         "patterns": [ "domain covered"],
+         "responses": ["Telecom,Enterprise,FinTech,Big Data,IOT,AI-ML"],
+         "context_set": ""
+        },
+
+	    {"tag": "Telecom",
+         "patterns": ["Telecom"],
+         "responses": ["Telecom:Cloud native core functions which are Microservice Oriented, Container Packaged and Dynamically Managed https://granthium.com/telecom.php"],
+         "context_set": ""
+        },
+	    {"tag": "Enterprise",
+         "patterns": ["Enterprise"],
+         "responses": ["Enterprise:Cloud native core functions which are Microservice Oriented, Container Packaged and Dynamically Managed https://granthium.com/enterprise.php"],
+         "context_set": ""
+        },
+		
+	    {"tag": "FinTech",
+         "patterns": ["FinTech"],
+         "responses": ["FinTech:Cloud native core functions which are Microservice Oriented, Container Packaged and Dynamically Managed https://granthium.com/fintech.php"],
+         "context_set": ""
+        },
+		
+		{"tag": "Big Data",
+         "patterns": ["Big Data"],
+         "responses": ["Big Data:Cloud native core functions which are Microservice Oriented, Container Packaged and Dynamically Managed https://granthium.com/fintech.php"],
+         "context_set": ""
+        },
+	    {"tag": "IOT",
+         "patterns": [ "IOT"],
+         "responses": ["IOT:Cloud native core functions which are Microservice Oriented, Container Packaged and Dynamically Managed https://granthium.com/iot.php"],
+         "context_set": ""
+        },
+		
+	    {"tag": "AI-ML",
+         "patterns": ["AI-ML"],
+         "responses": ["IOT:Cloud native core functions which are Microservice Oriented, Container Packaged and Dynamically Managed https://granthium.com/ai_ml.php"],
+         "context_set": ""
+        }
+		
+   ]
+}

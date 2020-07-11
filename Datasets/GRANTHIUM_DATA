@@ -1,0 +1,292 @@
+
+TELECOM:
+
+Cloud Core
+Cloud native core functions are Microservice Oriented, Container Packaged and Dynamically Managed:
+
+Service Based Architecture
+SDN - Virtualized Infrastructure
+Micro Services - stateless service function to scale in/out
+CaaS - small footprint for efficient resource utilization
+
+
+Management & Orchestration
+Deploy Management and Orchestration Functions which includes:
+
+ETSI MANO components (NFVO, VNF Manager, VIM) in case when some network nodes are virtualized
+SDN Controllers
+Legacy OSS (Network Management / Element Management functions)
+E2E Service orchestration
+Deploy multi-domain network infrastructure:
+
+Expose via Network APIs the capabilities of this multi-domain network infrastructure
+Automating Software and Deployment
+Build functions using Ci/Cd
+AB Testing
+Analytics
+Real-time analytics to manage complexity and ensure service availability and quality, 5G core solutions need to leverage advanced telemetry and analytics to provide an accurate view of the network, including its key elements and processes.
+Analytics coupled with network automation help reduce operational complexity and minimize downtime.
+Rich analytics also are used in new service planning and to help the network adapt to changing traffic patterns.
+
+
+Security and Protocol: TLS 9000
+Application Development
+Retail
+Banking
+Public Safety
+Transportation
+Warehouse
+Communication and Collaboration
+
+ENTERPRISE
+
+Implementing Legacy Modernization - WHY & HOW?
+
+Refactor:
+Application refactoring focuses on restructuring the existing code base without changing its external behavior. One of the key benefits for the customer is it greatly improves Non-functional requirements and attributes of the application. In Agile programming, this becomes very useful. We can make the code base simple and clearer to the developer community without impacting the Business user, thereby extending the life of the application and its maintenance. In addition, UI enhancements can be implemented on top of existing core-functionalities.
+
+
+
+Replatform:
+
+In the age of Cloud computing, one of the immediate benefits of the Cloud offering is to move a part or an entire application to the Cloud.
+
+Upstream and Downstream services are evaluated and if needed, broken into microservices, before changing the application platform from on-premise to the Cloud. Our team evaluates existing applications using modern analysis tools and provides options for Replatform.
+
+Rehost:
+Lift and shift is a strategy for moving an application or operation from one environment to another – without redesigning the app. In the lift-and-shift approach, applications, workloads, database and tasks can be moved from on-premise Legacy Mainframes to Distributed environment, either in the cloud or on-premise. This approach delivers a quick and easy migration solution as it can be migrated with minimal business disruption. Large enterprises looking for quick migration without disturbing the existing application workflow generally choose the rehost approach. Once they migrate using the rehost approach, it is easy to re-architect and optimize the application as they are already done with the difficult part. Granthium provides specialized expert services for rehosting.
+
+
+
+Retain:
+
+This approach to modernization primarily focuses on what aspects of an application and its related services need to be retained. As a result, we extract the business logic of the legacy application, redevelop the application, and retain the essential services required by the Business. This helps to weed out the unnecessary hundreds and sometimes million lines of code that would have grown organically over the years. Six Sigma and Lean principles play an important role in this space. This can be time consuming, cost intensive, but, in the long run it benefits the company to cope with changing demands of the industry.
+
+Retire:
+One of the main observable facts in majority of the organizations is the technical waste incurred by applications and services that should have been retired long time ago but they continue to exist, consuming valuable resources and costing tons of money. Our team evaluates such conditions, breaking down the ecosystem to bring clarity to the business and helping to retire them without major impact to the organization. We provide resources and services to effectively retire the applications and services at the shortest time period.
+
+Even if there is no new replacement at the moment for the retired application, a repository of the process and features is maintained that can help to make the right decision to fill the void in future with a replacement application and services.
+
+
+
+Replace:
+
+Technology is constantly changing, so too are the needs of an organization. In many instances, it makes a stronger business case to retire and replace the existing application with a better functioning application that meets the current needs. In a distributed environment, this might be comparatively easier, since there are many new applications that are available off-the-shelf, either through specific vendors or through the community - for instance AWS EC2 Market-place AMIs and Community AMIs that can further be customized. In the Legacy world, there is a growing need for such services.
+
+Granthium provides expert Professional Services for all the above approaches - to evaluate the customer’s environment and implement solutions for the organization.
+
+
+FINTECH:
+
+Financial Industry
+The primary objective of financial industry is to provide economic services to society at large. Generally, all economically developed regions have a thriving financial industry organized and governed by local and international laws to provide such services. A wide range of businesses manage money which encompass banks, credit unions, credit card companies, insurance companies, accountancy companies, consumer-finance companies, stock brokerages, investment funds, and government-sponsored enterprises.
+
+The origins of banking date back from 221 BC in China during the Qin dynasty to 2000 BC in the cradle of civilization where merchants traded grain. The growth and innovation in banking have mirrored the progress in mankind with famous banking families such as Bardi, Peruzzi and Medici in Italy during renaissance period to England during the Industrial age. Today, London, New York and Tokyo have become financial hubs for this vast global industry.
+
+Today, the internet and digitization brings yet another inflection point in the storied history of the financial industry. The internet allows instant executions of transactions of various type and size. Innovations in mobile communication, blockchain, cryptography and distributed ledger provide the industry tremendous opportunities to bring new and compelling products and services to customers while simultaneously reducing cost of these services. Companies that innovate the quickest while still maintaining trust will be the winners.
+
+Major industry segments
+Banks
+Commercial banking services
+Investment banking services
+Investment services
+Insurance
+Foreign exchange services
+Other financial services
+
+Investments in Knowledge
+
+Banking services
+
+Commercial banking services
+A commercial bank is a financial institution that accepts deposits, offers checking account services, makes various loans, and offers basic financial products like certificates of deposit (CDs) and savings accounts to individuals and small businesses. A commercial bank is where most people and business conduct their banking. Commercial banks make money by providing loans and earning interest income from those loans. The types of loans a commercial bank can issue vary and may include mortgages, auto loans, business loans, and personal loans.
+
+Investment banking services
+An investment bank assists corporations and governments in raising capital by underwriting and/or acting as the client’s agent in the issuance of securities. An investment bank may also assist companies with mergers and acquisitions and may provide support services in market making and trading of various securities. The primary services of an investment bank include: corporate finance, M&A, equity research, sales & trading, and asset management. Investment banks earn profit by charging fees and commissions for providing these services and other kinds of financial and business advice.
+
+Electronic Commerce
+Electronic commerce or ecommerce is a term used for any type of transaction that involves the transfer of information across the Internet. It covers a range of businesses which cover retail sites which provide goods and services to consumers, business exchanges trading goods and services between corporations, music and video streaming and a host of other services delivered using the internet. This ability to transact business on the internet has emerged as a crucial aspect allowing goods and services to be exchanged with no barriers to distance and time. Growth in electronic commerce is expected to grow rapidly in the next few years blurring the boundaries between traditional and electronic commerce as companies move major parts of their businesses online.
+
+Mobile banking is a key financial service which has leveraged the internet and smartphone to provide convenience to consumers and businesses.
+
+
+
+Mobile Banking
+
+A service provided by a bank or financial institution that allows customers to conduct financial transactions remotely using a mobile device such as a smartphone or tablet. Unlike online or internet banking which can be conducted over any standard browser, it uses an app provided by the financial institution for this purpose which includes security safeguards to protect customer transactions over the internet. Mobile banking blurs the concept of time and distance making banking available anytime and from anywhere in the world.
+
+
+MANAGED SERVICES
+
+Current Global Trend
+Managed services are becoming increasingly popular with businesses around the world. The global managed services market is expected to grow from USD 180.5 billion in 2018 to USD 282.0 billion by 2023, at a CAGR of 9.3% during the forecast period. The major factors driving the managed services market include the increasing dependence of organizations on IT assets to boost their business productivity and the need for specialized managed service providers who can offer cloud-based managed services. Multinational corporations demand uniform services worldwide which comes with its own operational complexities, simultaneously, national mid-sized or for that matter even small enterprises demand fast yet cookie-cutter delivery of managed services.
+
+Customers buy managed services to increase staff productivity beyond the technological and operational complexity barrier. Examples include integrating a unified communication system with a Microsoft Exchange solution, establishing a single-sign-on federation mechanism, etc. For a managed service provider to successfully deliver these services they need to be skillful in managing both the customer’s technical complexity while simultaneously managing the customer. Granthium focuses on balancing both of these customer needs to provide a flawless experience.
+
+
+
+Managed Service Portfolio
+Managed Security
+
+Security consulting
+Security maintenance
+Security policy development
+Virus- and Spam protection
+Firewalls & IPconcept
+Managed VPN
+Risk & compliance assessment
+Managed Mobility
+
+Enterprise Mobility Management
+Device Management - Handsets, Tablets, Purpose build devices
+Managed Office / IT Equipment
+
+Managed desktop
+Managed print services
+Printing & scanning management software
+Printer & scanner device management
+Data Center and Cloud Services
+Infrastructure as a Service - IaaS
+
+Servers hosting
+Managed servers
+Managed storage
+Web Hosting
+Server virtualization
+Desktop virtualization
+
+
+PaaS
+Platform as a Service - PaaS
+
+Deployment environment
+Runtime environment
+CaaS
+Containerization as a Service - CaaS
+
+Architectural assessment
+Containerization service
+Deployment environment
+Runtime environment
+
+
+SaaS
+Software as a Service - SaaS
+
+Application hosting (software, appstore, webshop)
+Deployment environment
+Workflow management
+Managed Software
+Managed Software
+
+Applications management and troubleshooting
+SAP, CRM, BI and ERP consulting, design & integration
+
+
+Managed Disaster Recovery
+Managed Disaster Recovery
+
+Backup & disaster recovery systems
+Business continuity services
+
+PROFESSIONAL SERVICES:
+
+Our Service model
+Our Professional Service model is based on the foundations of Strategic IT Sourcing. We build on a clearly defined strategy and vision, delivering significant business benefits to an organization, including total cost of ownership (TCO) savings, service level enhancement, technology transformation, best-practice governance and business agility. We evaluate Technologies, Operating Model, Suppliers, Geographies, Commercial and Execution Approach.
+
+
+
+We develop a Project Team to achieve the timescales, avoid unexpected program costs, Change Management, negotiate a mutually advantageous contract and manage the Stakeholders expectations.
+
+Along with Pre-contract due diligence, and shortlisting for the RFP Process, we create a RFI for a shortlist of recipients for the RFP and to provide the customer with strategic options for sourcing and network. We evaluate potential suppliers and enable a down-select decision to be made.
+
+Following contract signature, it is vital that the contract is mobilized according to the spirit of the negotiation process and as outlined in the terms of the contract. We provide detailed transition and transformation plans during the sourcing process. We maintain good contract governance on the delivery of business benefits, well managed, and pride ourselves on a strong customer-supplier relationship.
+
+
+
+In summary, we enable digital business and bimodal IT, increase the efficiency and scope of technology procurement and deliver aggressive cost optimization and manage complex vendor ecosystems.
+
+
+
+Who we are
+Granthium is a Center of Excellence (CoE) that concentrates on specialized Domains, providing advanced Technology Solutions and Services. Our mission is to deliver customized value-add for our clients, from inception to implementation. We aim to build long-lasting relationships with our clients and continually strive to excel and maintain it by delivering best-in-class solutions and services.
+
+
+
+What we do
+
+Granthium helps clients maximize their investments by transforming existing software and operational assets to leverage cloud computing, Big data, IoT and AI. Our three main focus areas are Telecom, Enterprise and FinTech. We transform and modernize legacy assets and monetize client data with inherent intelligence built into the solution.
+
+
+Asif Mehdi, MBA
+Chief Executive Officer
+
+Asif brings a wealth of Telecom, Public Safety and IT experience in developing and managing solutions globally. He was head of Business Development for Motorola Solutions Middle East and Central Asia regions, creating new markets for the company’s Broadband products and solutions for use in Government and Public Safety.
+
+Asif spent more than 25 years at Nokia and Motorola leading Research & Development teams to create cutting edge solutions in Telecom. His career has spanned the US, Europe, Middle East and Asia, with a five year expatriate assignment in Japan to launch a nationwide network.
+
+Asif earned a Master’s degree in Business Administration from DePaul University specializing in Finance and a Bachelor’s degree in Electrical Engineering & Computer Science from Illinois Institute of Technology.
+
+
+
+     
+
+
+Chris Peri, PhD
+President & CIO
+     
+Chris comes with International experience in leading creative products and solutions for Retail, e-Commerce, Telecommunication, Information Technology, Education and Healthcare industries. He has organized and led global development centers with great success in APAC, Europe and Americas, where he was also responsible for complex Systems Integration and Sales Engineering.
+
+Chris has mastered the art of managing large scale multi-site programs using traditional and SAFe Agile methodologies. He has deep skills in IT Governance, Quality Control, Enterprise Architecture, Engineering and Service Management practices with knowledge of Mainframe, Unix/Linux and Distributed Environments. He prefers to be a Social Arts practitioner - envision and execute as a Scientist - precision.
+
+Chris holds a PhD in Macro Social Systems and a Post-Doctorate from University of Chicago. He also holds a Master’s in Computer Science and Master’s in Divinity from Loyola University.
+
+
+Granthium Partners
+Due to increasing demand for Technology products and services from our clients, we are partnering with key players to offer full-service they deserve. Our verticals of Enterprise Legacy Modernization, Telecom Virtualization and Fintech solutions determine the partners for Granthium. We are implementation and solution partners for AWS, Microsoft, Robotic Process Automation, Mainframe Rehosting, Blockchain and IOT products.
+
+Below are our growing list of partners. If you are a technology company providing solutions and services in our focus areas of verticals and want to be our partner, we would like to hear from you. Please contact us at info@granthium.com.
+
+IBM PARTNER WROLD
+
+AYAN WORKS
+
+AWS
+
+AUTOMATION EDGE
+
+CLAIRVIZ
+
+MICROSOFT CERTIFIED PARTNER
+
+TMAX SOFT
+
+
+GET IN TOUCH: 
+
+USA
+   +1-224-353-6427
+
+   info@granthium.com
+
+   1111 Plaza Dr, Suite 640, Schaumburg, IL 60173
+INDIA
+   +91-7811-991899
+
+   info@granthium.com
+
+   185, SPS Building, Anna Salai, Chennai - 600002
+   116, KMC Complex, Coimbatore 641010
+UNITED KINGDOM
+   +44 7500 503 153
+
+   info@granthium.com
+
+   A1213 Gracechurch St, London EC3V 1LT, UK
+UAE
+   +971 52 747 4174
+
+   info@granthium.com
+
+   DPB 05, Dubai International Financial Centre, Dubai, 507211, UAE
+
